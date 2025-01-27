@@ -117,7 +117,7 @@ Vous souhaitez découvrir **Neovim**, l'éditeur puissant et personnalisable ? R
 
 ---
 
-## 5. **La solution de facilite **
+## 5. **La solution de facilite**
 
 Aidez vous de chatGPT pour rendre un message plus attrayant en markdown. **Attention au smiley qu'il utilise par contre.**
 
